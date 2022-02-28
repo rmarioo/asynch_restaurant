@@ -9,9 +9,6 @@ A **fish supplier** , supply fish in asynch way. It used an internal semantic se
 result for a given search
 A **pasta supplier** provide pasta with similar functionality of fish supplier
 
-See the diagram in the doc folder for more detailed behaviour
-
-
 How to try it:
 
 1. Start fish_supplier
@@ -21,4 +18,10 @@ How to try it:
 4. Run WaiterTest
 
 To note the very short live of threads in kitchen application
+
+
+See the diagram in the doc folder for more detailed behaviour
+![Step1](doc/kitchen_step1.png)
+![Step2](doc/kitchen_step2.png)
+
 
