@@ -17,6 +17,12 @@ How to try it:
 
 4. Run WaiterTest
 
+Benefits:
+
+1. Threads have very short live.( In kitchen service ) This can mean Better scalability. 
+2. No data is kept in memory until It Is really needed ( Cook step ). 
+3. Allow back pressure to avoid flooding of suppliers 
+
 To note the very short live of threads in kitchen application
 
 
